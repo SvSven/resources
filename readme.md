@@ -5,6 +5,7 @@ A collection of various tools and resources related to development and UX design
 - [Universal Design](#universal-design)
 - [Stock resources](#stock-resources)
 - [APIs](#apis)
+- [Colors](#colors)
 
 ## Universal Design
 - [The A11Y Project](https://a11yproject.com/) - Community driven effort to promote and inform about accessibility
@@ -24,5 +25,11 @@ A collection of various tools and resources related to development and UX design
 
 ## APIs
 - [github/public-apis](https://github.com/public-apis/public-apis) - Collection of free to use public APIs
+
+[⬆️ Back to top](#table-of-content)
+
+## Colors
+- [Leonardo](https://leonardocolor.io) - Tool to create color palletes based on contrast ratio
+- [Material UI Colors](https://www.materialui.co/colors) - Simple click-to-copy list of material design colors with different shades
 
 [⬆️ Back to top](#table-of-content)
